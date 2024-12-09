@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error: passing an array to a function that expects a string.  The `bug.ts` file contains the erroneous code, while `bugSolution.ts` shows the corrected version.  This example highlights the importance of careful type checking in TypeScript to prevent runtime errors.
